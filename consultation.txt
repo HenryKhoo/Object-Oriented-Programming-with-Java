@@ -1,0 +1,35 @@
+Peter Weller
+2020-09-05
+12:00
+Computing Theory
+1
+Tech Lab 2
+
+Dr. Ahmed
+2020-09-07
+14:00
+C programming
+2
+Tech Lab 1 
+
+Keyu Jin
+2020-09-08
+15:00
+Web design
+2
+Classroom B-02-03
+
+James Gordon
+2020-09-16
+15:00
+Linux Server Management and Security
+2
+Tech Lab 4
+
+xyz
+2020-09-08
+16:14
+Computing Theory
+1
+xyz
+

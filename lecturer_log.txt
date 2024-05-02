@@ -1,0 +1,65 @@
+Name: Peter Weller
+ID: 7002
+Lecturer log in at: 
+2020-09-04 at 21:24:15 MYT
+
+Name: Peter Weller
+ID: 7002
+Lecturer log in at: 
+2020-09-04 at 21:40:08 MYT
+
+Name: Prof. Kambal
+ID: 7005
+Lecturer log in at: 
+2020-09-04 at 21:45:52 MYT
+
+Name: Ralph Nadar
+ID: 7004
+Lecturer log in at: 
+2020-09-04 at 21:49:21 MYT
+
+Name: James Gordon
+ID: 7006
+Lecturer log in at: 
+2020-09-04 at 22:04:25 MYT
+
+Name: Peter Weller
+ID: 7002
+Lecturer log in at: 
+2020-09-04 at 22:39:02 SGT
+
+Name: Dr. Ahmed
+ID: 7001
+Lecturer log in at: 
+2020-09-08 at 00:36:03 SGT
+
+Name: Dr. Ahmed
+ID: 7001
+Lecturer log in at: 
+2020-09-08 at 00:36:53 SGT
+
+Name: Dr. Ahmed
+ID: 7001
+Lecturer log in at: 
+2020-09-08 at 00:40:05 SGT
+
+Name: James Gordon
+ID: 7006
+Lecturer log in at: 
+2020-09-08 at 00:44:32 SGT
+
+Name: Dr. Ahmed
+ID: 7001
+Lecturer log in at: 
+2020-09-08 at 15:20:38 SGT
+
+Name: a1
+ID: 7007
+Lecturer log in at: 
+2020-09-08 at 16:08:07 SGT
+
+Name: a2
+ID: 7008
+Lecturer log in at: 
+2020-09-08 at 16:13:03 SGT
+
